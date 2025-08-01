@@ -1,12 +1,49 @@
-# React + Vite
+# 🚀 Link Bio | Matheus Nísholas
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Um mini cartão de visitas digital desenvolvido em **React** + **TailwindCSS** + **Framer Motion**.
 
-Currently, two official plugins are available:
+> 💼 Desenvolvedor Java Júnior | Apaixonado por tecnologia, backend e café ☕
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Demonstração
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Preview](./public/preview.png) <!-- Altere se precisar -->
+
+Acesse: [https://seu-link.netlify.app](https://seu-link.netlify.app)
+
+---
+
+## 🧠 Tecnologias
+
+- [React](https://react.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Framer Motion](https://www.framer.com/motion/)
+- [React Icons](https://react-icons.github.io/react-icons/)
+- Deploy: [Vercel](https://vercel.com/) ou [Netlify](https://www.netlify.com/)
+
+---
+
+## 🧰 Funcionalidades
+
+- Design moderno com animações
+- Responsivo
+- Ícones interativos e estilizados
+- Gradiente de fundo + blur
+- Link para redes sociais e portfólio
+
+---
+
+## 📷 Screenshot
+
+![Link Bio Screenshot](./public/screenshot.png) <!-- Coloque sua imagem aqui -->
+
+---
+
+## 📥 Instalação
+
+```bash
+git clone https://github.com/nisholas-dev/linkbio-nisholas.git
+cd linkbio-nisholas
+npm install
+npm run dev
