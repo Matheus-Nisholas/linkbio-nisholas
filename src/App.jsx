@@ -37,7 +37,7 @@ export default function App() {
           />
           <div>
             <h1 className="text-xl font-bold leading-tight">Matheus Nísholas</h1>
-            <p className="text-sm text-zinc-400">Desenvolvedor Java Júnior</p>
+            <p className="text-sm text-zinc-400">Desenvolvedor Java</p>
           </div>
         </div>
 
