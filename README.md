@@ -1,49 +1,45 @@
-# 🚀 Link Bio | Matheus Nísholas
+ 🚀 Link Bio - Matheus Nísholas
 
-Um mini cartão de visitas digital desenvolvido em **React** + **TailwindCSS** + **Framer Motion**.
+Este é meu link bio pessoal, onde compartilho minhas redes e habilidades como **Desenvolvedor Java Júnior**. Um projeto moderno, responsivo e animado, feito com muito capricho e foco em boas práticas visuais e técnicas.
 
-> 💼 Desenvolvedor Java Júnior | Apaixonado por tecnologia, backend e café ☕
+🔗 **Acesse online**: [linkbio-nisholas.vercel.app](https://linkbio-nisholas.vercel.app)
 
----
-
-## ✨ Demonstração
-
-![Preview](./public/preview.png) <!-- Altere se precisar -->
-
-Acesse: [https://seu-link.netlify.app](https://seu-link.netlify.app)
+![Screenshot do projeto](https://raw.githubusercontent.com/seu-usuario/linkbio-nisholas/main/public/screenshot.png)
 
 ---
 
-## 🧠 Tecnologias
+## 🛠️ Tecnologias Utilizadas
 
-- [React](https://react.dev/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Framer Motion](https://www.framer.com/motion/)
-- [React Icons](https://react-icons.github.io/react-icons/)
-- Deploy: [Vercel](https://vercel.com/) ou [Netlify](https://www.netlify.com/)
-
----
-
-## 🧰 Funcionalidades
-
-- Design moderno com animações
-- Responsivo
-- Ícones interativos e estilizados
-- Gradiente de fundo + blur
-- Link para redes sociais e portfólio
+- **React + Vite**
+- **Tailwind CSS**
+- **React Icons**
+- **Framer Motion**
+- **Vercel (Deploy)**
 
 ---
 
-## 📷 Screenshot
+## 📌 Funcionalidades
 
-![Link Bio Screenshot](./public/screenshot.png) <!-- Coloque sua imagem aqui -->
+- Perfil com nome, foto e título profissional
+- Ícones das **hard skills** com animações de hover
+- Botões das redes sociais com efeitos visuais
+- Botão de portfólio animado com ícone pulsando
+- Totalmente **responsivo** e com **design moderno**
+- Favicon e título da página personalizados
 
 ---
 
-## 📥 Instalação
+## 💻 Rodando localmente
 
 ```bash
-git clone https://github.com/nisholas-dev/linkbio-nisholas.git
+# Clone o repositório
+git clone https://github.com/seu-usuario/linkbio-nisholas.git
+
+# Acesse a pasta
 cd linkbio-nisholas
+
+# Instale as dependências
 npm install
+
+# Inicie o servidor de desenvolvimento
 npm run dev
