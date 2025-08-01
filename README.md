@@ -1,35 +1,43 @@
- 🚀 Link Bio - Matheus Nísholas
+# 🚀 LinkBio - Matheus Nísholas
 
-Este é meu link bio pessoal, onde compartilho minhas redes e habilidades como **Desenvolvedor Java Júnior**. Um projeto moderno, responsivo e animado, feito com muito capricho e foco em boas práticas visuais e técnicas.
+Uma página de links pessoal desenvolvida com **React**, **TailwindCSS** e **Framer Motion**, com foco em um visual moderno, animações suaves e responsividade.
 
-🔗 **Acesse online**: [linkbio-nisholas.vercel.app](https://linkbio-nisholas.vercel.app)
-
-![Screenshot do projeto](https://raw.githubusercontent.com/seu-usuario/linkbio-nisholas/main/public/screenshot.png)
+![preview](https://linkbio-nisholas.vercel.app/preview.png)
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 👨‍💻 Sobre mim
 
-- **React + Vite**
-- **Tailwind CSS**
-- **React Icons**
-- **Framer Motion**
-- **Vercel (Deploy)**
+Desenvolvedor focado em aprender e evoluir constantemente. Atualmente estudo **Engenharia de Software** e tenho interesse especial em desenvolvimento backend com Java.
 
----
+### 🛠 Tecnologias que uso:
+- Java • Spring Boot • React • TailwindCSS  
+- PostgreSQL • Docker • Git/GitHub  
 
-## 📌 Funcionalidades
-
-- Perfil com nome, foto e título profissional
-- Ícones das **hard skills** com animações de hover
-- Botões das redes sociais com efeitos visuais
-- Botão de portfólio animado com ícone pulsando
-- Totalmente **responsivo** e com **design moderno**
-- Favicon e título da página personalizados
+### 📌 Conecte-se comigo:
+- [LinkedIn](https://linkedin.com/in/nisholas-dev)
+- [GitHub](https://github.com/nisholas-dev)
+- [Instagram](https://instagram.com/onisholas_)
 
 ---
 
-## 💻 Rodando localmente
+## 📸 Demonstração
+
+Acesse o projeto em produção:
+👉 [https://linkbio-nisholas.vercel.app](https://linkbio-nisholas.vercel.app)
+
+---
+
+## 🧪 Tecnologias utilizadas
+
+- [React](https://react.dev/)
+- [TailwindCSS](https://tailwindcss.com/)
+- [Framer Motion](https://www.framer.com/motion/)
+- [Vite](https://vitejs.dev/)
+
+---
+
+## 💻 Como rodar localmente
 
 ```bash
 # Clone o repositório
