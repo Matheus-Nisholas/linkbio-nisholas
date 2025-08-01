@@ -94,7 +94,7 @@ export default function App() {
 
         {/* Portfólio */}
         <motion.a
-          href="https://seu-link-do-portfolio.com"
+          href="https://github.com/Matheus-Nisholas?tab=repositories"
           target="_blank"
           className="flex items-center justify-center gap-3 bg-purple-600 hover:bg-purple-700 transition text-white font-semibold py-3 rounded-xl shadow-md hover:shadow-purple-500/60"
           whileHover={{ scale: 1.05 }}
