@@ -68,7 +68,7 @@ export default function App() {
             },
             {
               icon: <FaGithub />,
-              link: "https://github.com/nisholas-dev",
+              link: "https://github.com/Matheus-Nisholas",
               color: "hover:text-gray-300 hover:shadow-[0_0_15px_#9ca3af]"
             },
             {
